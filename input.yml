@@ -1,0 +1,44 @@
+techblog:
+    # APC
+    - https://techblog.ap-com.co.jp/
+
+    # mercari
+    - https://tech.mercari.com/rss
+
+    # ソラコム
+    - https://blog.soracom.jp/atom.xml
+    
+    #てくなべ
+    - https://tekunabe.hatenablog.jp/rss
+    
+    #ketancho
+    - https://www.ketancho.net/rss
+    
+    #naito
+    - https://tech.naitwo.me/rss
+    
+Qiitatag:
+    #Go
+    - https://qiita.com/tags/go/feed
+    
+    #python
+    - https://qiita.com/tags/python/feed
+    
+    #aws
+    - https://qiita.com/tags/aws/feed
+
+    #gcp
+    - https://qiita.com/tags/gcp/feed
+
+    #ansible
+    - https://qiita.com/tags/ansible/feed
+
+    #azure
+    - https://qiita.com/tags/azure/feed
+
+    #alibaba cloud
+    - https://qiita.com/tags/alibabacloud/feed
+
+    #docker
+    - https://qiita.com/tags/docker/feed
+
